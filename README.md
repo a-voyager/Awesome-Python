@@ -15,5 +15,5 @@
 一个统计代码行数的实用小工具，代码仅有几十行，输入项目路径和需要统计的代码类型，将统计出这些代码的行数.
 
 
-  [1]: http://7xqdz8.com1.z0.glb.clouddn.com/170406Cool.png
+  [1]: http://7xqdz8.com1.z0.glb.clouddn.com/170406CoolPictureImg.png
   [2]: http://7xqdz8.com1.z0.glb.clouddn.com/170406Word.png
